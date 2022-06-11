@@ -1,5 +1,4 @@
 from random import randrange
-from secrets import choice
 
 Success = 0
 Fall = 0
